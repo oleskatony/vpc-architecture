@@ -17,3 +17,5 @@ These were the following skills needed to properly configure the VPC and webserv
 -Configuring flow logs, NACL rules, and best practice architectural decision making when building a VPC.
 -Creating an S3 bucket with an optimal security configuration to store flow logs.
 -Configuring network settings and security groups for EC2 instances, and using user data scripts to install and configure the Linux operating system.
+## Architecture
+![Once you consider the specific needs of this project, the archtecture should look like this]([https://myoctocat.com/assets/images/base-octocat.svg](https://i.imgur.com/YtNFE2t.png))
