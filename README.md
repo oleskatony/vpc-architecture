@@ -3,8 +3,9 @@ This guide serves as an introduction to creating VPCs in AWS. Since creating thi
 
 If you're interested in exploring my other projects, I invite you to check out the following links:
 
-## Cloud Resume Challenge
-You can visit the website I created for the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) at [antoleska.net](https://antoleska.net/) or navigate directly to the repository to learn more about the project.
+## Cloud Resume Challenge ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=antoleska.net&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fantoleska.net)
+You can visit the website I created for the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) at [antoleska.net](https://antoleska.net/) or navigate directly to the [repository](https://github.com/oleskatony/cloudresumechallenge) to learn more about the project.
+
 
 ## 3-Tier-Archetecure
 This project covers many of the same topics and concepts as the project you are currently viewing. However, the infrastructure in this project is designed to be more scalable, secure, and highly available. I encourage you to explore the [repository](https://github.com/oleskatony/3-tier-architecture) of that project for a more detailed breakdown of building infrastructure in AWS.
