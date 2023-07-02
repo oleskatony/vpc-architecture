@@ -1,4 +1,15 @@
 # AWS Cloud Architecture Project
+This guide serves as an introduction to creating VPCs in AWS. Since creating this guide, I have worked on more intricate projects and guides that provide a deeper dive into the topic. While this guide demonstrates key fundamentals and provides high-level overviews of provisioning VPCs and creating webservers using AWS, my other projects offer more detailed insights into my tech stack.
+
+If you're interested in exploring my other projects, I invite you to check out the following links:
+
+## Cloud Resume Challenge
+You can visit the website I created for the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) at [antoleska.net](https://antoleska.net/) or navigate directly to the repository to learn more about the project.
+
+## 3-Tier-Archetecure
+This project covers many of the same topics and concepts as the project you are currently viewing. However, the infrastructure in this project is designed to be more scalable, secure, and highly available. I encourage you to explore the [repository](https://github.com/oleskatony/3-tier-architecture) of that project for a more detailed breakdown of building infrastructure in AWS.
+
+Thank you for your interest and support. Feel free to explore these projects for a more comprehensive understanding of AWS cloud architecture.
 
 ## Index
 
